@@ -14,7 +14,7 @@ This project aims to classify fresh fish images into various species using machi
 To set up the project environment, follow these steps:
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Rohit1412/Fresh-Fish-Classification.git
    ```
 2. Navigate to the project directory:
    ```
@@ -34,10 +34,6 @@ Replace `<path_to_your_fish_image>` with the actual path to the fish image you w
 
 ## Contributing
 We welcome contributions to the Fresh Fish Classification Project! If you have suggestions for improvements or bug fixes, please open an issue or submit a pull request.
-
-## Acknowledgments
-- Special thanks to [Dataset Source] for providing the fish image dataset.
-- Appreciation for the open-source libraries and tools that made this project possible.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
